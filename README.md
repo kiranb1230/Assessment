@@ -22,6 +22,6 @@
   1.Install Maven https://maven.apache.org/download.cgi
   2. set MAVEN_HOME and add MAVEN_HOME to the $PATH
   3. check if maven is installed properly mvn -version
-  4. clone the code using git clone https://github.com<>.git
+  4. clone the code using git clone https://github.com/kiranb1230/Assessment.git
   5. navigate to the Assessment-asseement folder and make sure you see pom.xml file  (ls -al pom.xml )
   6. run "mvn test" via command prompt
